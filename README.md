@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ihsaan1 currently studying Computer Science @ Birmingham City University | First Year
 - 👨‍💻 Currently fluent in: HTML, CSS
 - 🌱 I’m currently learning: Python, JavaScript, SQL, Bootsrap
-- 📫 How to reach me: Contact me on This site was built using [GitHub Pages](https://pages.github.com/).
+- 📫 How to reach me: Contact me on This site was built using [Discord](https://discord.com/users/1082726888952315924).
